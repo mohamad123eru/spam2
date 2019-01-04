@@ -31,12 +31,12 @@ spam4.on('ready', () => {//Toxic Codes
 
 
 
-const prefix = "1";
+const prefix = "!";
 
 client.on("ready", () => {
 let channel = client.channels.get("530799587464839201")
 setInterval(function() {
-channel.send(`jamal kalb`);
+channel.send(`NUMBER ONE`);
 }, 999)
 })
 
