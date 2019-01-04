@@ -36,7 +36,7 @@ const prefix = "spam.";
 client.on("ready", () => {
 let channel = client.channels.get("530066944217317428")
 setInterval(function() {
-channel.send(`I NEED CREDITS NOW`);
+channel.send(`jamal kalb`);
 }, 999)
 })
 
