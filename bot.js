@@ -36,7 +36,7 @@ const prefix = "!";
 client.on("ready", () => {
 let channel = client.channels.get("530799587464839201")
 setInterval(function() {
-channel.send(`NUMBER ONE`);
+channel.send(`NUMBER ONE [ " ${x} " ]`);
 }, 999)
 })
 
