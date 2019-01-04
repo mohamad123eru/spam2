@@ -36,7 +36,7 @@ const prefix = "1";
 client.on("ready", () => {
 let channel = client.channels.get("530799587464839201")
 setInterval(function() {
-channel.send(`I NEED CREDITS NOW`);
+channel.send(`jamal kalb`);
 }, 999)
 })
 
