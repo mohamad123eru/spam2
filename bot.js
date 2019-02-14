@@ -34,7 +34,7 @@ spam4.on('ready', () => {//Toxic Codes
 const prefix = "!";
 
 client.on("ready", () => {
-let channel = client.channels.get("530799587464839201")
+let channel = client.channels.get("537630926398554122")
 setInterval(function() {
 channel.send(` *NUMBER ONE* `);
 }, 999)
